@@ -46,7 +46,7 @@
 
 1. 下载本仓库到本地：
    ```bash
-   git clone https://github.com/yclxw/Ythhc
+   git clone https://github.com/yclxw/qlhc
    ```
 
 2. 打开 Chrome，在地址栏输入：
@@ -80,7 +80,7 @@
 ## 📂 项目结构
 
 ```
-预算一体化清理缓存/
+一键清理缓存/
 ├── manifest.json          # 扩展配置（Manifest V3）
 ├── background.js         # Service Worker（核心清理逻辑）
 ├── icons/                 # 扩展图标（16/32/48/128 px）
